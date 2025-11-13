@@ -12,4 +12,14 @@ Ce que le projet va permettre :
 * les stocker en BDD
 * les afficher
 * utiliser Node-Red
-* 
+
+
+
+
+
+Ajouter une image :
+
+
+
+!\[rafale](IMG\_3257.JPG)
+
